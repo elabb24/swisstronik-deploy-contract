@@ -1,1 +1,1 @@
-# swisstronik-deploy-contract
+# Swisstronik Deploy Simple Contract using Hardhat
